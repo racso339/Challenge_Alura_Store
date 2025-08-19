@@ -42,5 +42,3 @@ El análisis permitirá responder a preguntas clave como:
 Al final, el señor Juan contará con un **informe visual e interactivo**, para tomar una decisión informada sobre la venta de una de sus tiendas.
 
 ---
-
-## 📂 Estructura del repositorio
