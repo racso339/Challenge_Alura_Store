@@ -36,58 +36,64 @@ El **Sr. Juan**, dueño de cuatro tiendas Alura Store, quiere **vender una de el
 
 ## 🚀 Cómo reproducir
 
-1. Clonar el repositorio: `git clone https://github.com/racso339/Challenge_Alura_Store.git`
-2. 2. Instalar dependencias: `pip install -r requirements.txt`
-   3. 3. Abrir el notebook: `jupyter notebook AluraStoreLatam.ipynb`
-     
-      4. O abrir directamente en [Google Colab](https://colab.research.google.com/github/racso339/Challenge_Alura_Store/blob/master/AluraStoreLatam.ipynb).
-     
-      5. ---
-     
-      6. ## 📈 Metodología (5 ejes de análisis)
-     
-      7. | # | Análisis | Pregunta de negocio |
-      8. |---|----------|---------------------|
-      9. | 1 | 💰 **Facturación global** | ¿Qué tienda factura más? |
-      10. | 2 | 🏷️ **Ventas por categoría** | ¿Qué categorías mueven cada tienda? |
-      11. | 3 | ⭐ **Calificación promedio** | ¿Qué tienda tiene mejor percepción? |
-      12. | 4 | 📦 **Productos más y menos vendidos** | ¿Qué productos destacan en cada una? |
-      13. | 5 | 🚚 **Costo promedio de envío** | ¿Qué tienda incurre en mayor costo logístico? |
-     
-      14. Cada eje incluye visualizaciones (barras, comparaciones cruzadas, mapas con Folium para geo-análisis) y un análisis interpretativo.
-     
-      15. ---
-     
-      16. ## 🏆 Resultados clave
-     
-      17. 1. 🥇 **Tienda 1** es la de **mayor facturación**, líder en ingresos.
-          2. 2. ⚠️ **Tienda 4** es la de **menor facturación** y menor competitividad en el mercado.
-             3. 3. Hay diferencias importantes en categorías top y costos logísticos entre tiendas.
-                4. 4. El informe final integra los 5 ejes para una recomendación de negocio sustentada.
-                  
-                   5. **Recomendación final del análisis:** vender la **Tienda 4** y reinvertir el capital en un nuevo negocio.
-                  
-                   6. ---
-                  
-                   7. ## 📊 Visualizaciones en el notebook
-                  
-                   8. El notebook incluye gráficos de barras comparativos de facturación por tienda, distribución de ventas por categoría, boxplots de calificaciones, rankings de productos más y menos vendidos, mapas con Folium con distribución geográfica, y un informe final consolidado con conclusiones y recomendación.
-                  
-                   9. 👉 **[Abrir notebook completo con todos los gráficos](AluraStoreLatam.ipynb)**
-                  
-                   10. ---
-                  
-                   11. ## 👤 Autor
-                  
-                   12. **Oscar Serna** — Ingeniero electricista (UNAL) en pivot a roles de datos.
-                  
-                   13. 🔗 LinkedIn: [linkedin.com/in/oscar-hserna](https://www.linkedin.com/in/oscar-hserna)
-                  
-                   14. 📧 Email: ohsernap@unal.edu.co · racso339@gmail.com
-                  
-                   15. 🐙 GitHub: [@racso339](https://github.com/racso339)
-                  
-                   16. ---
-                  
-                   17. 📜 Distribuido bajo licencia MIT.
-                   18. 
+**Paso 1.** Clonar el repositorio: `git clone https://github.com/racso339/Challenge_Alura_Store.git`
+
+**Paso 2.** Instalar dependencias: `pip install -r requirements.txt`
+
+**Paso 3.** Abrir el notebook: `jupyter notebook AluraStoreLatam.ipynb`
+
+O abrir directamente en [Google Colab](https://colab.research.google.com/github/racso339/Challenge_Alura_Store/blob/master/AluraStoreLatam.ipynb).
+
+---
+
+## 📈 Metodología (5 ejes de análisis)
+
+**Eje A — 💰 Facturación global:** ¿Qué tienda factura más?
+
+**Eje B — 🏷️ Ventas por categoría:** ¿Qué categorías mueven cada tienda?
+
+**Eje C — ⭐ Calificación promedio:** ¿Qué tienda tiene mejor percepción?
+
+**Eje D — 📦 Productos más y menos vendidos:** ¿Qué productos destacan en cada una?
+
+**Eje E — 🚚 Costo promedio de envío:** ¿Qué tienda incurre en mayor costo logístico?
+
+Cada eje incluye visualizaciones (barras, comparaciones cruzadas, mapas con Folium para geo-análisis) y un análisis interpretativo.
+
+---
+
+## 🏆 Resultados clave
+
+▸ 🥇 **Tienda 1** es la de **mayor facturación**, líder en ingresos.
+
+▸ ⚠️ **Tienda 4** es la de **menor facturación** y menor competitividad en el mercado.
+
+▸ Hay diferencias importantes en categorías top y costos logísticos entre tiendas.
+
+▸ El informe final integra los 5 ejes para una recomendación de negocio sustentada.
+
+**Recomendación final del análisis:** vender la **Tienda 4** y reinvertir el capital en un nuevo negocio.
+
+---
+
+## 📊 Visualizaciones en el notebook
+
+El notebook incluye gráficos de barras comparativos de facturación por tienda, distribución de ventas por categoría, boxplots de calificaciones, rankings de productos más y menos vendidos, mapas con Folium con distribución geográfica, y un informe final consolidado con conclusiones y recomendación.
+
+👉 **[Abrir notebook completo con todos los gráficos](AluraStoreLatam.ipynb)**
+
+---
+
+## 👤 Autor
+
+**Oscar Serna** — Ingeniero electricista (UNAL) en pivot a roles de datos.
+
+🔗 LinkedIn: [linkedin.com/in/oscar-hserna](https://www.linkedin.com/in/oscar-hserna)
+
+📧 Email: ohsernap@unal.edu.co · racso339@gmail.com
+
+🐙 GitHub: [@racso339](https://github.com/racso339)
+
+---
+
+📜 Distribuido bajo licencia MIT.
